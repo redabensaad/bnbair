@@ -1,7 +1,7 @@
 ## Bnbair (fullstack project) Spring boot 3, Angular 17, PrimeNG, PostgreSQL, Auth0 (2024) (Backend + Frontend)
 
-Spring boot backend
-Angular frontend
+- Spring boot backend
+- Angular frontend
 
 ### Key Features:
 - 📅 Booking management for travelers
