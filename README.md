@@ -14,4 +14,4 @@ This preview showcases accommodation listings, reservation workflows, search cap
 
 $ Built
 
-✔ Sep 2024
+✓ Sep 2024
